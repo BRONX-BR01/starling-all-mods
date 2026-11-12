@@ -1,0 +1,1496 @@
+[
+ {
+  "id": "abelha_skull",
+  "kind": "resourcepack",
+  "name": "Abelha skull",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "abelha_skull-1.0.0.zip",
+  "sha256": "af7161fdae041b980d97a399af9db7dca183c220b039b78ecbcb5400481aa599"
+ },
+ {
+  "id": "accurate_block_placement",
+  "kind": "native-mod",
+  "name": "Accurate Block Placement",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "accurate_block_placement-1.0.0.hnmod",
+  "sha256": "e631745f6d267360de6eb51995ee995bf1ab3d64393d287b7b93c332b85939ce"
+ },
+ {
+  "id": "additional_lights",
+  "kind": "mod",
+  "name": "Additional Lights",
+  "version": "3.1.4",
+  "game": "26.3",
+  "file": "additional_lights.hmod",
+  "sha256": "9fc4f2f9e2a259d475202749c269673301da13a9d2ff0cec6346947becaacb83"
+ },
+ {
+  "id": "ae2",
+  "kind": "native-mod",
+  "name": "Applied Energistics 2",
+  "version": "15.4.17",
+  "game": "26.3",
+  "file": "ae2-15.4.17.hnmod",
+  "sha256": "d69efc90f11ae6cc455454096d0c097de0d2534fef3e8dcdd8109b12c8f70e17"
+ },
+ {
+  "id": "appleskin",
+  "kind": "native-mod",
+  "name": "AppleSkin",
+  "version": "0.1.3",
+  "game": "26.3",
+  "file": "appleskin-0.1.3.hnmod",
+  "sha256": "2dac91d4c4c4ab65684f41a3279c6b27beffa7407e5362b0d7a97c28c07914a6"
+ },
+ {
+  "id": "appleskin_horizon",
+  "kind": "native-mod",
+  "name": "AppleSkin",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "appleskin_horizon-1.0.0.hnmod",
+  "sha256": "38a729f1aad00f6148f29578a2725cb5e7f9aea79a870fcf3cee76f39838c5ff"
+ },
+ {
+  "id": "armor_status",
+  "kind": "native-mod",
+  "name": "Armor Status",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "armor_status-1.0.0.hnmod",
+  "sha256": "82c8672fa2c43d7946a26a560fd56fdd8f34beecf4bcb459c2d508b3d09eeee6"
+ },
+ {
+  "id": "armorhud",
+  "kind": "native-mod",
+  "name": "Armor HUD",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "armorhud-1.0.0.hnmod",
+  "sha256": "8bd85e1584f307201bce5de2e60466d603b61d4807803d4ebc02772b4f6b704b"
+ },
+ {
+  "id": "astral_cruiser",
+  "kind": "native-mod",
+  "name": "Astral Cruiser",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "astral_cruiser-0.1.0.hnmod",
+  "sha256": "69100219f92307f9190712da2854bfd43f15cf81773d89d89d6dd22411caa2f2"
+ },
+ {
+  "id": "atlas",
+  "kind": "native-mod",
+  "name": "Atlas",
+  "version": "0.2.0",
+  "game": "26.3",
+  "file": "atlas-0.2.0.hnmod",
+  "sha256": "07c3651728523e349858ef7f575b6336508a8e616a99aef2ef19e9723d1694c3"
+ },
+ {
+  "id": "atomic_industry",
+  "kind": "modpack",
+  "name": "Atomic Industry",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "atomic_industry-1.0.0.hpack",
+  "sha256": "52717a00d1007247330e68922c64943c119ab744c0a8ad177f7aef8a91857c79"
+ },
+ {
+  "id": "aurora",
+  "kind": "shader",
+  "name": "Aurora Shaders Horizon",
+  "version": "5.9.3",
+  "game": "26.3",
+  "file": "aurora-5.9.3.hshader",
+  "sha256": "2849af94ccc5601e5de733ec0de6fce78b5b6bce9e85b4f166048c62674165c5"
+ },
+ {
+  "id": "ayynoxs_map_pack",
+  "kind": "native-mod",
+  "name": "ayynoxs map pack",
+  "version": "0.4.2",
+  "game": "26.3",
+  "file": "ayynoxs_map_pack-0.4.2.hnmod",
+  "sha256": "d5cef20531720a594969b7b7acfd20d2d32d644d7b0ae230dd68a46f98172371"
+ },
+ {
+  "id": "baritone",
+  "kind": "native-mod",
+  "name": "Baritone",
+  "version": "1.1.52",
+  "game": "26.3",
+  "file": "baritone-1.1.52.hnmod",
+  "sha256": "d46c541d1e673a95f343960b6fb1646a0669ec07df11958af97f1a76b3b14ffa"
+ },
+ {
+  "id": "basic_hud",
+  "kind": "native-mod",
+  "name": "The Basic HUD",
+  "version": "0.5.0",
+  "game": "26.3",
+  "file": "basic_hud-0.5.0.hnmod",
+  "sha256": "97011cc7374354c6293678c7ab593240d0512bffde1d7b642dad521e1df3f8ac"
+ },
+ {
+  "id": "betterf3",
+  "kind": "native-mod",
+  "name": "BetterF3",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "betterf3-1.0.0.hnmod",
+  "sha256": "6903e9fd75fc89e1bf780c28944cd4483800e02a258cd69f794a5cbe648a0d9e"
+ },
+ {
+  "id": "big_nukes_native",
+  "kind": "native-mod",
+  "name": "Big Nukes",
+  "version": "0.1.3",
+  "game": "26.3",
+  "file": "big_nukes_native-0.1.3.hnmod",
+  "sha256": "4ab6679ea3ed08e4c02f8ac5304ca9876a3b185d5461eb12256806a63f574272"
+ },
+ {
+  "id": "biomecompass",
+  "kind": "native-mod",
+  "name": "BiomeCompass",
+  "version": "0.2.2",
+  "game": "26.3",
+  "file": "biomecompass-0.2.2.hnmod",
+  "sha256": "d9a4aedcf22318774e1ac6bed6f1e00aca13a38c8dc3426d5a7800e4d8c61bf5"
+ },
+ {
+  "id": "blockscope",
+  "kind": "native-mod",
+  "name": "Blockscope",
+  "version": "0.3.1",
+  "game": "26.3",
+  "file": "blockscope-0.3.1.hnmod",
+  "sha256": "4fea94e5337aa82df3d981fc6231fecc80161262add577b596bb6661e0e303d1"
+ },
+ {
+  "id": "blood_particles",
+  "kind": "native-mod",
+  "name": "Blood Particles",
+  "version": "1.2.0",
+  "game": "26.3",
+  "file": "blood_particles-1.2.0.hnmod",
+  "sha256": "8439959e089453a54c7fdcf996d1575e3ca7327a54de26c13975b66bad6e0d06"
+ },
+ {
+  "id": "carryblock",
+  "kind": "native-mod",
+  "name": "Carry Block",
+  "version": "0.1.2",
+  "game": "26.3",
+  "file": "carryblock-0.1.2.hnmod",
+  "sha256": "9a6ebd26f640a477815862eb36846fe3289046d0f4c06ef3a815f463ca9a3701"
+ },
+ {
+  "id": "chat_animation",
+  "kind": "native-mod",
+  "name": "ChatAnimationHorizon",
+  "version": "0.1.3",
+  "game": "26.3",
+  "file": "chat_animation-0.1.3.hnmod",
+  "sha256": "39b9e2bbf296d69cc43824035f2afcc9d1e8c59e479716230262ee097297f543"
+ },
+ {
+  "id": "chat_heads_rust",
+  "kind": "native-mod",
+  "name": "Chat Heads Horizon",
+  "version": "1.0.2",
+  "game": "26.3",
+  "file": "chat_heads_rust-1.0.2.hnmod",
+  "sha256": "b4dd7f7b8e5689dc0718821d7926ff3e3c9107fc11737903c195aed19c6cb7a1"
+ },
+ {
+  "id": "chatheads",
+  "kind": "native-mod",
+  "name": "ChatHeads",
+  "version": "0.1.1",
+  "game": "26.3",
+  "file": "chatheads-0.1.1.hnmod",
+  "sha256": "16f5e1db33255c550c087fcf3ed982a4be9abf61b547b470a08f471d309ad1fe"
+ },
+ {
+  "id": "chop",
+  "kind": "native-mod",
+  "name": "Chop!",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "chop-1.0.1.hnmod",
+  "sha256": "5abac195c54da7716f35f641489c0dba780444c91b0b3e4f3387ecd4cb2b260b"
+ },
+ {
+  "id": "cinematic_interactions",
+  "kind": "native-mod",
+  "name": "Cinematic Interactions",
+  "version": "0.12.2",
+  "game": "26.3",
+  "file": "cinematic_interactions-0.12.2.hnmod",
+  "sha256": "b08c342aeca7d053705e2397cd6185f3239a5c51f962f129cea6f545eb293604"
+ },
+ {
+  "id": "classic_zoom",
+  "kind": "native-mod",
+  "name": "Classic Zoom",
+  "version": "2.0.0",
+  "game": "26.3",
+  "file": "classic_zoom-2.0.0.hnmod",
+  "sha256": "a8bdeba615ed31b9bd10280fcf8ba04a31935bc65fff429fc0e83d1c8090dac9"
+ },
+ {
+  "id": "clientsort",
+  "kind": "native-mod",
+  "name": "ClientSort",
+  "version": "1.2.0",
+  "game": "26.3",
+  "file": "clientsort-1.2.0.hnmod",
+  "sha256": "8aac1c3e1e2b77dd5e93b9944db0faf09cab44815548894005a41a36409eecfe"
+ },
+ {
+  "id": "compass_bar",
+  "kind": "mod",
+  "name": "Compass Enhanced",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "compass_bar-0.1.0.hmod",
+  "sha256": "bb8f191f89f5ea963301fd2d28315b251dfb8df9656b640975eddffaec3e6b00"
+ },
+ {
+  "id": "connected_textures",
+  "kind": "native-mod",
+  "name": "ContinuityHorizon",
+  "version": "0.1.7",
+  "game": "26.3",
+  "file": "connected_textures-0.1.7.hnmod",
+  "sha256": "47fd568c4e2969122da80550efd9305b527484168541a6bbea44e1fdff16cab1"
+ },
+ {
+  "id": "context_tools",
+  "kind": "native-mod",
+  "name": "Context_tool_swap",
+  "version": "1.3.0",
+  "game": "26.3",
+  "file": "context_tools-1.3.0.hnmod",
+  "sha256": "3c12569706641ef94ed955ed08c959314dcb95cfec290df19978b8ee3301ccef"
+ },
+ {
+  "id": "coords_hud",
+  "kind": "native-mod",
+  "name": "Coordinates HUD",
+  "version": "2.0.0",
+  "game": "26.3",
+  "file": "coords_hud-2.0.0.hnmod",
+  "sha256": "432376fad3062b3517e274d3b8c0d0b52fc5d6de2aee20a0b340c8cab5a8cf08"
+ },
+ {
+  "id": "cpm",
+  "kind": "native-mod",
+  "name": "CustomPlayerModels-Horizon",
+  "version": "0.1.2",
+  "game": "26.3",
+  "file": "cpm-0.1.2.hnmod",
+  "sha256": "33725ad0ab212719107355223849b2c26a628551714d70fb44f10f55f79cdca3"
+ },
+ {
+  "id": "create",
+  "kind": "native-mod",
+  "name": "Create for Horizon",
+  "version": "0.7.0-alpha.2",
+  "game": "26.3",
+  "file": "create-0.7.0-alpha.2.hnmod",
+  "sha256": "13638c5571ef7ac32be5bb19ddac90959796d6c102122de09f6a81d39be74d97"
+ },
+ {
+  "id": "crosshair_indicator",
+  "kind": "native-mod",
+  "name": "Crosshair Indicator",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "crosshair_indicator-1.0.0.hnmod",
+  "sha256": "96beba1f7c94fca492b552fb12af0d20047dc1799f0801607841d56b12786226"
+ },
+ {
+  "id": "crossversion",
+  "kind": "native-mod",
+  "name": "Cross Version",
+  "version": "0.8.0",
+  "game": "26.3",
+  "file": "crossversion-0.8.0.hnmod",
+  "sha256": "5b371f1b7b3582e0c92aa1dc22b491b50c024fe95833aa2bd9457189631caafd"
+ },
+ {
+  "id": "customhud",
+  "kind": "native-mod",
+  "name": "Beautiful Day Counter",
+  "version": "1.7.0",
+  "game": "26.3",
+  "file": "customhud-1.7.0.hnmod",
+  "sha256": "f83437e2924b57cb442bd585baa46819ecba5b142bdbbfcb34d109a2cff4a144"
+ },
+ {
+  "id": "daybreak",
+  "kind": "shader",
+  "name": "Daybreak",
+  "version": "0.2.0",
+  "game": "26.3",
+  "file": "daybreak-0.2.0.hshader",
+  "sha256": "2da76c32e18a3d16af4eab348683f9e51fe20cc8d1160eb342d5eb56b43fe365"
+ },
+ {
+  "id": "deepbore_quarry",
+  "kind": "mod",
+  "name": "Deepbore Quarry (assets)",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "deepbore_quarry-0.1.0.hmod",
+  "sha256": "2a75f3adc59aaf273fd833545c50a63a7f829916156b74d85bebbb6273b0d8b6"
+ },
+ {
+  "id": "deepbore_quarry_native",
+  "kind": "native-mod",
+  "name": "Deepbore Quarry",
+  "version": "0.1.2",
+  "game": "26.3",
+  "file": "deepbore_quarry_native-0.1.2.hnmod",
+  "sha256": "41865d8459e679b23d3e71fa05f149ddc429dacac057fb350608ce526a486c17"
+ },
+ {
+  "id": "distant_horizons",
+  "kind": "native-mod",
+  "name": "Distant Horizons for Horizon Client",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "distant_horizons-0.1.0.hnmod",
+  "sha256": "c53a2501f14efb624839329aac6999ddf8c64a399d41bec42a0c878902feea81"
+ },
+ {
+  "id": "dynamic_fps_for_rust",
+  "kind": "native-mod",
+  "name": "Dynamic FPS for rust",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "dynamic_fps_for_rust-0.1.0.hnmod",
+  "sha256": "50fad9a8d1d481a3862479b313c04e0dc6f8494a84d4cd007583822f5671e17e"
+ },
+ {
+  "id": "dynamiclights",
+  "kind": "native-mod",
+  "name": "Better Dynamic Lights",
+  "version": "1.0.3",
+  "game": "26.3",
+  "file": "dynamiclights-1.0.3.hnmod",
+  "sha256": "bfc3e95726255b34e19aa98a239281149bdc5824abbf5d33b4f67fe865652168"
+ },
+ {
+  "id": "eatinganimation",
+  "kind": "native-mod",
+  "name": "Eating Animation",
+  "version": "0.2.0",
+  "game": "26.3",
+  "file": "eatinganimation-0.2.0.hnmod",
+  "sha256": "e9df7c923723b3b047e6442529dac057806521d988ab2694c43fdcc3104ecc5f"
+ },
+ {
+  "id": "elytratrails",
+  "kind": "native-mod",
+  "name": "ElytraTrails",
+  "version": "0.1.2",
+  "game": "26.3",
+  "file": "elytratrails-0.1.2.hnmod",
+  "sha256": "ad6758f1ff0fa1b50750764bf2eb1f78ea94af8ecc84d75a7cc6ec5dcffb31a6"
+ },
+ {
+  "id": "enchantmenthints",
+  "kind": "native-mod",
+  "name": "Enchantment Hints",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "enchantmenthints-0.1.0.hnmod",
+  "sha256": "6f1b80a7c22e02b086d5eea2ed6f7c5481b3e40d6a974bf9e382a3df4a2de9df"
+ },
+ {
+  "id": "factory_blocks",
+  "kind": "mod",
+  "name": "Factory Blocks",
+  "version": "1.4.2",
+  "game": "26.3",
+  "file": "factory_blocks.hmod",
+  "sha256": "520ad2ca64d2d4a0711a56f538074be64ab9a19337dae018bfee625e8672e43b"
+ },
+ {
+  "id": "fair_freecam",
+  "kind": "native-mod",
+  "name": "Fair Freecam",
+  "version": "1.2.0",
+  "game": "26.3",
+  "file": "fair_freecam-1.2.0.hnmod",
+  "sha256": "4fdd0b3067a00d23fe30ee4d594293ef0705325bb5e6e5b292f90c1e8b8a5f8a"
+ },
+ {
+  "id": "fast_items",
+  "kind": "native-mod",
+  "name": "Fast Items for Horizon",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "fast_items-0.1.0.hnmod",
+  "sha256": "c3acd8adfeac6450c3a13b5172c8abb298cb3ceb355dfc539b4bdd653ef15502"
+ },
+ {
+  "id": "fast_trading",
+  "kind": "native-mod",
+  "name": "Fast Trading",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "fast_trading-1.0.0.hnmod",
+  "sha256": "0e215cd7eab59d37d235d8a97dd26608aa8a77c087df703143f0ef3c0bc40938"
+ },
+ {
+  "id": "fence_perch",
+  "kind": "native-mod",
+  "name": "Fence Perch",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "fence_perch-1.0.0.hnmod",
+  "sha256": "d4b3cef31bc299deb5ea1910ed25059ec5a48bd4eff7af36262c216d278bb266"
+ },
+ {
+  "id": "first_person_body",
+  "kind": "native-mod",
+  "name": "First Person Body",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "first_person_body-1.0.0.hnmod",
+  "sha256": "9ec11dd9cb147bd68f8293c31bda9f189bbda3f6c3feac5c90f454023118d714"
+ },
+ {
+  "id": "firstpersonmodel",
+  "kind": "native-mod",
+  "name": "First-person Model",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "firstpersonmodel-1.0.0.hnmod",
+  "sha256": "32f5def8886cc6d815efc8295208b37d9791bb17e77874502fd8d51729a03af9"
+ },
+ {
+  "id": "flair",
+  "kind": "native-mod",
+  "name": "Flair",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "flair-1.0.1.hnmod",
+  "sha256": "6f9abce8af586f448c5d450e394fda609ae02d0878851561ea884c0a17c9d76a"
+ },
+ {
+  "id": "flesh_to_leather",
+  "kind": "mod",
+  "name": "Flesh to Leather",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "flesh_to_leather-1.0.0.hmod",
+  "sha256": "2caac39306a051b53ae489137fa2a3a204fc8f156860fcbc4568275392a7e5c6"
+ },
+ {
+  "id": "fly_speed",
+  "kind": "native-mod",
+  "name": "Fly Speed",
+  "version": "0.2.0",
+  "game": "26.3",
+  "file": "fly_speed-0.2.0.hnmod",
+  "sha256": "4d50b18d86371b2bf4b43726b506278d7e404a8227609a33165f7aa83ba0cda0"
+ },
+ {
+  "id": "fps_overlay",
+  "kind": "native-mod",
+  "name": "FPS Counter",
+  "version": "2.0.0",
+  "game": "26.3",
+  "file": "fps_overlay-2.0.0.hnmod",
+  "sha256": "bedb670e2490ce8239906c86eabd3a0c131ef5037b2937607231bdbdba38c171"
+ },
+ {
+  "id": "freecam",
+  "kind": "native-mod",
+  "name": "Freecam",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "freecam-0.1.0.hnmod",
+  "sha256": "6314ed87d3b58ed0244bed388201c64bffb8deab4f5ff7beed2a3791b391a6da"
+ },
+ {
+  "id": "freecam_plus",
+  "kind": "native-mod",
+  "name": "Freecam+",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "freecam_plus-1.0.1.hnmod",
+  "sha256": "42687902b5dfe3b5aea2eea59587b5cd62b93da0e623a4ebd0da22cf8a9a20bf"
+ },
+ {
+  "id": "freecam_yannis",
+  "kind": "native-mod",
+  "name": "FreeCam",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "freecam_yannis-1.0.1.hnmod",
+  "sha256": "97b727405c8aeef6d7865701fc7fda4f52fe61549a47125e6b6244c7872e161c"
+ },
+ {
+  "id": "freelook",
+  "kind": "native-mod",
+  "name": "Freelook",
+  "version": "0.3.1",
+  "game": "26.3",
+  "file": "freelook-0.3.1.hnmod",
+  "sha256": "9c0c92ce9f0fc8e7bc1bd34349e26d42b32b8abd2c7a09ec710936f9b6ce9aaf"
+ },
+ {
+  "id": "fullbright",
+  "kind": "native-mod",
+  "name": "MoreGamma",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "fullbright-1.0.0.hnmod",
+  "sha256": "573c5e04188e0b1a26eb42a8aeaeeefeb6fb334a096afaa834e71b8efa353ad7"
+ },
+ {
+  "id": "fullbright_horizon",
+  "kind": "native-mod",
+  "name": "Fullbright",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "fullbright_horizon-1.0.0.hnmod",
+  "sha256": "db6175eec1711dbc5ab2a2edc40eee9cbc4080ec1d706a3cef688e54ba9cb017"
+ },
+ {
+  "id": "fullbright_nofog",
+  "kind": "native-mod",
+  "name": "Fullbright & NoFog",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "fullbright_nofog-1.0.0.hnmod",
+  "sha256": "07a13abd8af2405343241f8985db7595a03bfb8ced2f1dfab8a105848eb1b7d7"
+ },
+ {
+  "id": "gyro",
+  "kind": "native-mod",
+  "name": "Gyro",
+  "version": "1.4.1",
+  "game": "26.3",
+  "file": "gyro-1.4.1.hnmod",
+  "sha256": "2271d5b7e1559544a12e9198523c643bddd2551828ecf0a39b92f7d120b1921b"
+ },
+ {
+  "id": "held_item_info",
+  "kind": "native-mod",
+  "name": "Held Item Info",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "held_item_info-0.1.0.hnmod",
+  "sha256": "37a11d98f0afabe37f8ffa9982dc710ad2985817db6b5e094d807c24d30a6a6a"
+ },
+ {
+  "id": "hitbox_plus",
+  "kind": "native-mod",
+  "name": "Hitbox+",
+  "version": "1.3.0",
+  "game": "26.3",
+  "file": "hitbox_plus-1.3.0.hnmod",
+  "sha256": "8d1b95e7461e38fc40994b35a82c1f753a58e9751ce27af1dc101a4717dba8a4"
+ },
+ {
+  "id": "horizon_physics",
+  "kind": "native-mod",
+  "name": "PhysicsModHorizon",
+  "version": "0.20.7",
+  "game": "26.3",
+  "file": "horizon_physics-0.20.7.hnmod",
+  "sha256": "8eeba82ac0e7755298269fd328679473720a9894cfe10df5c8e3aaf88f59c34c"
+ },
+ {
+  "id": "horizonmatica",
+  "kind": "native-mod",
+  "name": "Horizonmatica",
+  "version": "0.3.2",
+  "game": "26.3",
+  "file": "horizonmatica-0.3.2.hnmod",
+  "sha256": "c73b7909541fdc8f2c1127323cb8df30f5e186e46f7c5a672fe5c9b8b8dbdfe1"
+ },
+ {
+  "id": "hud_plus",
+  "kind": "native-mod",
+  "name": "HUD+",
+  "version": "4",
+  "game": "26.3",
+  "file": "hud_plus-4.hnmod",
+  "sha256": "0f94e0502ccd6a2b4905d4f4e41073e06726cb7ce50cd0d9ec1035841d72a957"
+ },
+ {
+  "id": "imfast",
+  "kind": "native-mod",
+  "name": "I'm Fast",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "imfast.hnmod",
+  "sha256": "bf94eba0b926eae25b782b84f3c0f97de1dcb4c60200b2be15b640e80374a347"
+ },
+ {
+  "id": "inferium_lab",
+  "kind": "native-mod",
+  "name": "Inferium Lab",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "inferium_lab-0.1.0.hnmod",
+  "sha256": "e05c584fdb5f9caeb67f6a53eb62c71cbc137b4c463c6ee01902509d9624f027"
+ },
+ {
+  "id": "inventory_profiles",
+  "kind": "native-mod",
+  "name": "Inventory Profiles",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "inventory_profiles-1.0.0.hnmod",
+  "sha256": "1e5d1c75d05230172820b5bc016d7d3ac792adf473de7dbfb84394d8b795a633"
+ },
+ {
+  "id": "inventory_wizard",
+  "kind": "native-mod",
+  "name": "InventoryWizard",
+  "version": "2.3.3",
+  "game": "26.3",
+  "file": "inventory_wizard-2.3.3.hnmod",
+  "sha256": "03a7c8a528148611e5f309f3d05294a97b6766ca5e3bda9b3f1f79458fe65a42"
+ },
+ {
+  "id": "invisible_frames",
+  "kind": "native-mod",
+  "name": "Invisible Frames",
+  "version": "0.1.1",
+  "game": "26.3",
+  "file": "invisible_frames-0.1.1.hnmod",
+  "sha256": "76128b48ce5c826007379c85634b934ae6bad51c134fbaead7c46b36fecd9274"
+ },
+ {
+  "id": "itemnew",
+  "kind": "native-mod",
+  "name": "Item New",
+  "version": "0.1.1",
+  "game": "26.3",
+  "file": "itemnew-0.1.1.hnmod",
+  "sha256": "cdc68c9911736703ebc4b8b81895a719edd74ba9d08fe01ddb34fe09b8d490e9"
+ },
+ {
+  "id": "jade",
+  "kind": "native-mod",
+  "name": "Jade",
+  "version": "26.3.8",
+  "game": "26.3",
+  "file": "jade-26.3.8.hnmod",
+  "sha256": "eeb74fbcfbe75e568ecebdc82c8091c482e4f929dcb1f4d7390052d2ef8c5da8"
+ },
+ {
+  "id": "jei",
+  "kind": "native-mod",
+  "name": "JEI for Horizon",
+  "version": "0.2.1",
+  "game": "26.3",
+  "file": "jei-0.2.1.hnmod",
+  "sha256": "d0a840069ff9fb877021829584df72441928a9283feb27df30d244837bc7f2af"
+ },
+ {
+  "id": "justenoughitems",
+  "kind": "native-mod",
+  "name": "Just Enough Items",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "justenoughitems-1.1.0.hnmod",
+  "sha256": "6acc0701e16cbbee5941310dc600f805ebdcf2897d92c62047e8bf8a7e519396"
+ },
+ {
+  "id": "keystrokes",
+  "kind": "native-mod",
+  "name": "Keystrokes",
+  "version": "2.0.0",
+  "game": "26.3",
+  "file": "keystrokes-2.0.0.hnmod",
+  "sha256": "bed34d2f8049e92c52cd7c91c0c4c8c9d165faaf0183500cf4021d9e04783a7d"
+ },
+ {
+  "id": "killc",
+  "kind": "native-mod",
+  "name": "KillC",
+  "version": "5.1.0",
+  "game": "26.3",
+  "file": "killc-5.1.0.hnmod",
+  "sha256": "6c44d0a5e93aef42f2a33df8286980d9957a04526ff2c1884dfe7aa83f837086"
+ },
+ {
+  "id": "kotost_body",
+  "kind": "native-mod",
+  "name": "Kotost Bust",
+  "version": "0.4.0",
+  "game": "26.3",
+  "file": "kotost_body-0.4.0.hnmod",
+  "sha256": "738330cfc25708a5b388d08de3b210fe2ea8224f3cd75e6a9131627bb026f0fa"
+ },
+ {
+  "id": "kotost_chest",
+  "kind": "native-mod",
+  "name": "Kotost Chest",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "kotost_chest-0.1.0.hnmod",
+  "sha256": "e19ec3d7c922661610b07a751ad7dd3218d781a7887cadd2ecf5bd00c0566601"
+ },
+ {
+  "id": "kotost_firstperson",
+  "kind": "native-mod",
+  "name": "Kotost First Person",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "kotost_firstperson-0.1.0.hnmod",
+  "sha256": "181790b3f02e773a55c3de67ad79af2170a2aa784456d7939be451e1941ad880"
+ },
+ {
+  "id": "kotost_roulette",
+  "kind": "native-mod",
+  "name": "Kotost Roulette",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "kotost_roulette-0.1.0.hnmod",
+  "sha256": "df27032d1c05c0e8f7a23c783f4494209374520f1782523ce87be5e526e79105"
+ },
+ {
+  "id": "light_overlay",
+  "kind": "native-mod",
+  "name": "Light Overlay",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "light_overlay-1.0.0.hnmod",
+  "sha256": "b4aeb56b13d9c73df267a1dc7b1f588f4db39bfd55f7beaef97a014fffb5b076"
+ },
+ {
+  "id": "living_camera",
+  "kind": "native-mod",
+  "name": "Living Camera",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "living_camera-1.1.0.hnmod",
+  "sha256": "b813a3231263d2f32511247375f2cd0e220c33afd6fd510509a910a0440d3ef0"
+ },
+ {
+  "id": "livingmotion",
+  "kind": "native-mod",
+  "name": "LivingMotion",
+  "version": "1.2.0",
+  "game": "26.3",
+  "file": "livingmotion-1.2.0.hnmod",
+  "sha256": "9aa388f9fe2a776cd4104b89c72c48489641583a8c8e9d427bb0195c5bd64eed"
+ },
+ {
+  "id": "lookat",
+  "kind": "native-mod",
+  "name": "LookAt",
+  "version": "0.2.1",
+  "game": "26.3",
+  "file": "lookat-0.2.1.hnmod",
+  "sha256": "6c15726116825b5955984223d0e1bccd5d18375005af243a061b2ba2b9139f33"
+ },
+ {
+  "id": "lumen",
+  "kind": "shader",
+  "name": "Lumen",
+  "version": "2.5.1",
+  "game": "26.3",
+  "file": "lumen-2.5.1.hshader",
+  "sha256": "6ed5abce53d876d334dd6f6bd2604ebe7d24242e473783128dde326f58c1c03c"
+ },
+ {
+  "id": "lumina",
+  "kind": "shader",
+  "name": "Lumina",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "lumina-1.0.0.hshader",
+  "sha256": "3b81722173fc4c4476def75fbfeff964ccd8a2fde0e31b49507078ea7616dd43"
+ },
+ {
+  "id": "map_preview",
+  "kind": "native-mod",
+  "name": "Map Preview",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "map_preview-1.0.0.hnmod",
+  "sha256": "13da8efebaa60aa030d4bc8ce007f82b2c3b21f6cc4c62ef7e906fa45777136a"
+ },
+ {
+  "id": "mcwtrpdoors",
+  "kind": "mod",
+  "name": "Macaw's Trapdoors",
+  "version": "1.1.5",
+  "game": "26.3",
+  "file": "mcwtrpdoors.hmod",
+  "sha256": "c75926e47c2649be36cc86880ac3e09a40035b5134ae96dfb4403be3c2d95905"
+ },
+ {
+  "id": "menu_panorama",
+  "kind": "resourcepack",
+  "name": "Menu Panorama",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "menu_panorama-1.0.0.zip",
+  "sha256": "e0403b003e6c93dec683037202cebb47880025cfe21e2d8fc7818321ee362401"
+ },
+ {
+  "id": "minelights",
+  "kind": "native-mod",
+  "name": "MineLights",
+  "version": "2.4.0",
+  "game": "26.3",
+  "file": "minelights-2.4.0.hnmod",
+  "sha256": "87fda49af7960a44870bc87c9462b802a28c6df74e70341232f52efca11fd15a"
+ },
+ {
+  "id": "minimap",
+  "kind": "native-mod",
+  "name": "Minimap",
+  "version": "2.0.0",
+  "game": "26.3",
+  "file": "minimap-2.0.0.hnmod",
+  "sha256": "6f5dbca0699562b088a04b3f5abdc1b7faf8da51257a96da0a4ed639c6644ed9"
+ },
+ {
+  "id": "minimap_worldmap_waypoints_reworked",
+  "kind": "native-mod",
+  "name": "Minimap, Worldmap and waypoints reworked",
+  "version": "0.4.1",
+  "game": "26.3",
+  "file": "minimap_worldmap_waypoints_reworked-0.4.1.hnmod",
+  "sha256": "93b92a321377227840d5adbb21a21b968b0d4d124e8f64de3bffeccf9eada6f8"
+ },
+ {
+  "id": "mod_menu",
+  "kind": "native-mod",
+  "name": "Mod Menu",
+  "version": "0.3.5",
+  "game": "26.3",
+  "file": "mod_menu-0.3.5.hnmod",
+  "sha256": "5fef518e6ce7417944ab2621711be013cf7e25fdd6d3b25922876e78f090bfa3"
+ },
+ {
+  "id": "modmenu",
+  "kind": "native-mod",
+  "name": "Mod Menu",
+  "version": "1.1.2",
+  "game": "26.3",
+  "file": "modmenu-1.1.2.hnmod",
+  "sha256": "fbd89bef60008e2c845f03191ce249ccef4dff32f41f1ce89688549220c0fb76"
+ },
+ {
+  "id": "montarc",
+  "kind": "shader",
+  "name": "Montarc",
+  "version": "1.1.1",
+  "game": "26.3",
+  "file": "montarc-1.1.1.hshader",
+  "sha256": "3d6b4a457d84db15b63c9b77df887bb1887190901b9e2303e5a2a7d8a2bac01b"
+ },
+ {
+  "id": "motion_blur",
+  "kind": "native-mod",
+  "name": "Motion Blur",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "motion_blur-0.1.0.hnmod",
+  "sha256": "4cdaa6369fffea8116b013edfc618358ca989f48ed65c83306d2102f0e506c47"
+ },
+ {
+  "id": "mousetricks",
+  "kind": "native-mod",
+  "name": "Mouse Tricks",
+  "version": "0.2.0",
+  "game": "26.3",
+  "file": "mousetricks-0.2.0.hnmod",
+  "sha256": "48c60955371963f8e320a9efbe8285bb276d255c29178a8a021e7e2b47535cbe"
+ },
+ {
+  "id": "mousetweaks",
+  "kind": "native-mod",
+  "name": "MouseTweaks",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "mousetweaks-1.1.0.hnmod",
+  "sha256": "5b74114ada20c434408b533bd57dec2725d081e8a8cba4d7de96c3d1502c5a6d"
+ },
+ {
+  "id": "movement_status",
+  "kind": "native-mod",
+  "name": "Movement Status",
+  "version": "0.1.1",
+  "game": "26.3",
+  "file": "movement_status-0.1.1.hnmod",
+  "sha256": "2684d7f5646ea39651ca7731c0aa27160431035c5e50ac6177e957e89c12f8cf"
+ },
+ {
+  "id": "netherstarrecipe",
+  "kind": "mod",
+  "name": "Nether Star Crafting",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "netherstarrecipe-1.0.0.hmod",
+  "sha256": "8ce5770dc39156b64f872938e810e6cc037b8d711a82374eaf4e228adda9b266"
+ },
+ {
+  "id": "nimbe",
+  "kind": "shader",
+  "name": "Nimbe",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "nimbe-1.0.0.hshader",
+  "sha256": "89602f3cd963cc2833354ffb081361a8ad09b1143c70ad9cd7e0132b27897dba"
+ },
+ {
+  "id": "notenoughanimations",
+  "kind": "native-mod",
+  "name": "Not Enough Animations",
+  "version": "0.2.76",
+  "game": "26.3",
+  "file": "notenoughanimations-0.2.76.hnmod",
+  "sha256": "39e3459d3d6b6ec97f9a9654d2c6b358b085e8158e50de3327873cfbcd114645"
+ },
+ {
+  "id": "orbital",
+  "kind": "native-mod",
+  "name": "Orbital Laser",
+  "version": "0.5.10",
+  "game": "26.3",
+  "file": "orbital-0.5.10.hnmod",
+  "sha256": "f860b61f2c54cc4efd6e6373054858768b0fd829afc0b59c60893a556ef4da63"
+ },
+ {
+  "id": "pastel_mystic",
+  "kind": "shader",
+  "name": "Pastel Mystic",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "pastel_mystic-1.0.0.hshader",
+  "sha256": "12df7984da6a1f8f6f06eb74267f83ec4e5abe495e0aa547e5fd09951ecb161e"
+ },
+ {
+  "id": "photon",
+  "kind": "shader",
+  "name": "Photon",
+  "version": "1.4.0",
+  "game": "26.3",
+  "file": "photon-1.4.0.hshader",
+  "sha256": "9641bfd672c8b3608025a71d5cc1c927d0da75ed6f8d8c46f29213004a8019ba"
+ },
+ {
+  "id": "pickupnotifier",
+  "kind": "native-mod",
+  "name": "Pick Up Notifier",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "pickupnotifier-1.1.0.hnmod",
+  "sha256": "2b38c66503114deb8f58c62c7c1f64ca31568c947c1b32b91395400027bd2af2"
+ },
+ {
+  "id": "projecte",
+  "kind": "mod",
+  "name": "ProjectE for Horizon (assets)",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "projecte-0.1.0.hmod",
+  "sha256": "da08dffc1d021463e43576db233bc79e943aaf4e76a8a1ea37b66aa8ebab883f"
+ },
+ {
+  "id": "projecte_core",
+  "kind": "native-mod",
+  "name": "ProjectE for Horizon",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "projecte_core-0.1.0.hnmod",
+  "sha256": "ea0cd9cdb85cb8f3bd9f35a99d7b2c8e4f95ea2c0ba321509be02ee8f4b3df85"
+ },
+ {
+  "id": "pvp_music",
+  "kind": "native-mod",
+  "name": "PVP Music",
+  "version": "1.2.0",
+  "game": "26.3",
+  "file": "pvp-music-1.2.0.hnmod",
+  "sha256": "21e2e7768a5b4f89bee05453ae83e8130ab8b9019431eb5ecb10b2d7326e5be7"
+ },
+ {
+  "id": "radiant",
+  "kind": "shader",
+  "name": "Radiant",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "radiant-1.0.0.hshader",
+  "sha256": "4d079d8ee411a6a70189c3d12b415b96531532fe3cd46be0a778114db08a1605"
+ },
+ {
+  "id": "rarity_borders",
+  "kind": "native-mod",
+  "name": "Rarity Borders",
+  "version": "0.1.1",
+  "game": "26.3",
+  "file": "rarity_borders-0.1.1.hnmod",
+  "sha256": "664de3d6ac432c375ab52c26d1dc2ab0b0f2ebe1f1b94a681375ae9e44158089"
+ },
+ {
+  "id": "recipes",
+  "kind": "native-mod",
+  "name": "Recipes",
+  "version": "2.0.0",
+  "game": "26.3",
+  "file": "recipes-2.0.0.hnmod",
+  "sha256": "51fddf300709404170061355afdf0b407f28eb928bcc0a9133c241cd63f4a0ed"
+ },
+ {
+  "id": "resourcify",
+  "kind": "native-mod",
+  "name": "ResourcifyHorizon",
+  "version": "0.1.2",
+  "game": "26.3",
+  "file": "resourcify-0.1.2.hnmod",
+  "sha256": "3afe8dd3d2ada0cfd1932e1675283f68ee202152c26281aac1e8787b3707aad9"
+ },
+ {
+  "id": "rider_hud",
+  "kind": "native-mod",
+  "name": "Rider HUD",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "rider_hud-0.1.0.hnmod",
+  "sha256": "2f8121390f87672ff023ad1933503248d19b3092b2f5a27debc8612a7f520b10"
+ },
+ {
+  "id": "right_click_crops",
+  "kind": "native-mod",
+  "name": "Right-Click Crops",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "right_click_crops-1.0.1.hnmod",
+  "sha256": "e369d9cb34320144d805d02f162a3ed357b9cf8bbeee457e409cedc0b7e63d0a"
+ },
+ {
+  "id": "rightharvest",
+  "kind": "native-mod",
+  "name": "RightClickHarvest",
+  "version": "0.1.1",
+  "game": "26.3",
+  "file": "rightharvest-0.1.1.hnmod",
+  "sha256": "2f70f3a5abaca35f1ff8df7b198f0fd616eacaa5229f5113f75935e16f50255b"
+ },
+ {
+  "id": "rmotd",
+  "kind": "native-mod",
+  "name": "RMotd",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "rmotd-1.0.0.hnmod",
+  "sha256": "68d43b760e95178a67bc1c7d54fbde004eee4bb764d9891d83bd4e4fa4bd8ce5"
+ },
+ {
+  "id": "roughlyenoughitems",
+  "kind": "native-mod",
+  "name": "Roughly Enough Items",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "roughlyenoughitems-1.1.0.hnmod",
+  "sha256": "233416b0010453b3af2b018bf511a3316d104dde281921fac0be623d9153c657"
+ },
+ {
+  "id": "salvage",
+  "kind": "mod",
+  "name": "Salvage",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "salvage-1.0.0.hmod",
+  "sha256": "9404e1a91b474118635ff2c743f41af2b03e809fe419ef7ab3d8f9d48dab5641"
+ },
+ {
+  "id": "schematics",
+  "kind": "native-mod",
+  "name": "Schematics",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "schematics-1.0.0.hnmod",
+  "sha256": "04c0cb5d1fbddf92327cf3456b33070a515af6b51b37109cd43f058ee1b78642"
+ },
+ {
+  "id": "seedcrackerx",
+  "kind": "native-mod",
+  "name": "SeedCrackerX",
+  "version": "0.2.3",
+  "game": "26.3",
+  "file": "seedcrackerx-0.2.3.hnmod",
+  "sha256": "6646fd05f28251ca6ccd935027376fbb27a79ff92ac9980f20b3689964a0be9a"
+ },
+ {
+  "id": "server_browser",
+  "kind": "native-mod",
+  "name": "Server Atlas",
+  "version": "2.2.1",
+  "game": "26.3",
+  "file": "server_browser-2.2.1.hnmod",
+  "sha256": "71279e980f3861608810f762fed93cb3264bc5b069b0200f3e9f46099418e8c3"
+ },
+ {
+  "id": "server_flags",
+  "kind": "native-mod",
+  "name": "Server Flags",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "server_flags-1.0.1.hnmod",
+  "sha256": "470d97afdbf8d954a50aec4e7ec38c2934766825c47f0955a968a1dacc3fa640"
+ },
+ {
+  "id": "serverify",
+  "kind": "native-mod",
+  "name": "Serverify",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "serverify-0.1.0.hnmod",
+  "sha256": "f9ad0777f8fc7ea532f799da8a9eb72df2348c8d6bb5dc104f81b6ab47209501"
+ },
+ {
+  "id": "shulker_peek",
+  "kind": "native-mod",
+  "name": "ShulkerPeek",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "shulker_peek-0.1.0.hnmod",
+  "sha256": "e4e33cb698d91042b2ed2f93a1c935f279d16d83988115d53c0f33530cabeab5"
+ },
+ {
+  "id": "shulkerboxtooltip",
+  "kind": "native-mod",
+  "name": "Shulker Box Tooltip",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "shulkerboxtooltip-1.0.1.hnmod",
+  "sha256": "005244f696d9c5214980f554251f6442523768f040a78f505ef8d36090484bba"
+ },
+ {
+  "id": "silentgems",
+  "kind": "mod",
+  "name": "Silent's Gems",
+  "version": "5.2.0",
+  "game": "26.3",
+  "file": "silentgems.hmod",
+  "sha256": "cd47ec932c984e81ce5b9450a65eeec8ac3b3c48206cc468a63d9979eee0343b"
+ },
+ {
+  "id": "simple_voice_chat",
+  "kind": "native-mod",
+  "name": "Simple Voice Chat client (unofficial)",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "simple_voice_chat-1.0.0.hnmod",
+  "sha256": "daab67ade4a5d22f922a681a792d449cea9b91c1d7da0bd710d52c9e7b07f855"
+ },
+ {
+  "id": "skins_3d",
+  "kind": "native-mod",
+  "name": "3D Skins",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "skins_3d-1.1.0.hnmod",
+  "sha256": "ac9f20ea771f2abb25976c06d320883016b13a984075522ecc07323b48994602"
+ },
+ {
+  "id": "smartf3",
+  "kind": "native-mod",
+  "name": "SmartF3",
+  "version": "0.1.0",
+  "game": "26.3",
+  "file": "smartf3-0.1.0.hnmod",
+  "sha256": "666fc77a12411c8b525dca3d3d478595e760b73c48b62b936fb6026419547929"
+ },
+ {
+  "id": "smoothie_capes",
+  "kind": "native-mod",
+  "name": "Smoothie Capes",
+  "version": "0.5.1",
+  "game": "26.3",
+  "file": "smoothie_capes-0.5.1.hnmod",
+  "sha256": "4d8853561c7a09031057e45f6710be922b9841272fdb1d0d6d328ca6b6168af1"
+ },
+ {
+  "id": "smoothswapping",
+  "kind": "native-mod",
+  "name": "Smooth Swapping",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "smoothswapping-1.1.0.hnmod",
+  "sha256": "a74035bd739f9a1b812accf7c4bd8abff37d234060aa7f6b2609b15ed99d0adb"
+ },
+ {
+  "id": "speedrun_timer",
+  "kind": "native-mod",
+  "name": "Speedrun Timer",
+  "version": "1.0.1",
+  "game": "26.3",
+  "file": "speedrun_timer-1.0.1.hnmod",
+  "sha256": "884efd123b6e3a99e783603fd18f94b4fe6cf4b2ce6297e8e58fbb81c699c22e"
+ },
+ {
+  "id": "spider_man",
+  "kind": "native-mod",
+  "name": "Spider-Man",
+  "version": "0.2.0",
+  "game": "26.3",
+  "file": "spider_man-0.2.0.hnmod",
+  "sha256": "06eefe89fa0f05cfdc6b331b38497d16b4dbc82931581940e127be081055cec8"
+ },
+ {
+  "id": "spotify_hud",
+  "kind": "native-mod",
+  "name": "Spotify HUD",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "spotify_hud-1.0.0.hnmod",
+  "sha256": "db7e370554c60fb26fea5048d31bc4b633a1c37d70174789117aa3144e5a3cf3"
+ },
+ {
+  "id": "status_effect_hud",
+  "kind": "native-mod",
+  "name": "Status Effect HUD",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "status_effect_hud-1.0.0.hnmod",
+  "sha256": "afa30125bb8b402892f1719e550b66d4eb4d7264895f71bb9c98a4caf5c7b432"
+ },
+ {
+  "id": "strangely_charming",
+  "kind": "native-mod",
+  "name": "Strangely Charming",
+  "version": "0.2.11",
+  "game": "26.3",
+  "file": "strangely_charming-0.2.11.hnmod",
+  "sha256": "fb5d84f5f8db78cd48226581c3706742e913a34a9047069056a0007f34abee7f"
+ },
+ {
+  "id": "stuck",
+  "kind": "native-mod",
+  "name": "Stuck?",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "stuck-1.0.0.hnmod",
+  "sha256": "8e6292d9c89f660e72f01e54be4103b5273017955c7bd8034dd5ae8ec2e98630"
+ },
+ {
+  "id": "tectonic_horizon",
+  "kind": "native-mod",
+  "name": "Tectonic-Horizon",
+  "version": "0.3.4",
+  "game": "26.3",
+  "file": "tectonic_horizon-0.3.4.hnmod",
+  "sha256": "590198d7df43b5c9474c41648db89a15bd4d388be0fe860a2f84a84b59285cec"
+ },
+ {
+  "id": "toggle_sprint",
+  "kind": "native-mod",
+  "name": "Toggle Sprint",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "toggle_sprint-1.0.0.hnmod",
+  "sha256": "b2a4190f9c19adbceae4a639342b7630bfc3047339eabf57673b7807db5edc6a"
+ },
+ {
+  "id": "trails",
+  "kind": "native-mod",
+  "name": "Trails",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "trails-1.0.0.hnmod",
+  "sha256": "e5f96de4992d0db3d067cbca41f33f768829977d5014f9589d9578def375098c"
+ },
+ {
+  "id": "treefall",
+  "kind": "native-mod",
+  "name": "TreeFall",
+  "version": "0.3.0",
+  "game": "26.3",
+  "file": "treefall-0.3.0.hnmod",
+  "sha256": "6f7feea8d0f55291953476b272f00cfc4be42d64972e7efefeb3df47c9dae8ce"
+ },
+ {
+  "id": "veinminer",
+  "kind": "native-mod",
+  "name": "Veinminer",
+  "version": "0.3.2",
+  "game": "26.3",
+  "file": "veinminer-0.3.2.hnmod",
+  "sha256": "31a4249da1b35972ae8b34201373c86352f4adc2f5cb3e015749d1fbfecf00a0"
+ },
+ {
+  "id": "viahorizon",
+  "kind": "native-mod",
+  "name": "ViaHorizon",
+  "version": "0.8.8-dev",
+  "game": "26.3",
+  "file": "viahorizon-0.8.8-dev.hnmod",
+  "sha256": "ee28b2131a066870acdd853dcf31096bc556cb574a9599f00cd296c1d563a2ba"
+ },
+ {
+  "id": "visuality_horizon",
+  "kind": "native-mod",
+  "name": "Visuality",
+  "version": "1.0.2",
+  "game": "26.3",
+  "file": "visuality_horizon-1.0.2.hnmod",
+  "sha256": "b764f15a062e44b27c55f478b2d02e163bfb01c3d8e222fcd6d83bcc66f19a0d"
+ },
+ {
+  "id": "vivid_horizon",
+  "kind": "shader",
+  "name": "Vivid Horizon",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "vivid_horizon-1.0.0.hshader",
+  "sha256": "0f8a0acb769e93a0821d147e544dcbf7209296e5131fe89399b45b8e5f0a2aa4"
+ },
+ {
+  "id": "voicechat",
+  "kind": "native-mod",
+  "name": "Horizon Voice Chat",
+  "version": "1.0.0",
+  "game": "26.3",
+  "file": "voicechat-1.0.0.hnmod",
+  "sha256": "7a12ef9e691d10128ea081906a313d597c67f22897380618871477f9dd8eabf1"
+ },
+ {
+  "id": "volexstorm",
+  "kind": "shader",
+  "name": "Volex",
+  "version": "2.0.1",
+  "game": "26.3",
+  "file": "volexstorm-2.0.1.hshader",
+  "sha256": "f7675bcfed4f010fe3bb29e510e7c3aa35b1097621cb34ae8e6fa6c93bc81974"
+ },
+ {
+  "id": "voltz",
+  "kind": "mod",
+  "name": "Voltz (assets)",
+  "version": "0.3.0",
+  "game": "26.3",
+  "file": "voltz-0.3.0.hmod",
+  "sha256": "241548ff66203b4587bdbe5f48d04e8ac24b61ffc8773ea6714b1bd494f96c0a"
+ },
+ {
+  "id": "voltz_core",
+  "kind": "native-mod",
+  "name": "Voltz",
+  "version": "0.3.0",
+  "game": "26.3",
+  "file": "voltz_core-0.3.0.hnmod",
+  "sha256": "07671d2d8267871a88c4a78ebe890b7b3f63210345f1d889c7f348d317e8d5cf"
+ },
+ {
+  "id": "wayfarer_stones",
+  "kind": "mod",
+  "name": "Wayfarer Stones (assets)",
+  "version": "0.6.1",
+  "game": "26.3",
+  "file": "wayfarer_stones-0.6.1.hmod",
+  "sha256": "075df3102918ff059abab53392584a58a17b9090a352a7d29018be69fde23034"
+ },
+ {
+  "id": "wayfarer_stones_native",
+  "kind": "native-mod",
+  "name": "Wayfarer Stones",
+  "version": "0.6.3",
+  "game": "26.3",
+  "file": "wayfarer_stones_native-0.6.3.hnmod",
+  "sha256": "56cf931b48d22b55964db2b7977c1c438dc416427dd2d8755e5016131ab739f7"
+ },
+ {
+  "id": "waymap",
+  "kind": "native-mod",
+  "name": "Waymap",
+  "version": "0.2.1",
+  "game": "26.3",
+  "file": "waymap-0.2.1.hnmod",
+  "sha256": "702af5081ef69b97e4ab8c43eed98140243cc4dc9d0964df2ef2227f9bc76342"
+ },
+ {
+  "id": "waypoints",
+  "kind": "native-mod",
+  "name": "Waypoints",
+  "version": "1.1.0",
+  "game": "26.3",
+  "file": "waypoints-1.1.0.hnmod",
+  "sha256": "8ff61c453204ac26cdbe24588ccaa5660af3ffbc815fb4ad0ef4d7d7e6b1bae9"
+ },
+ {
+  "id": "wisdom_horizon",
+  "kind": "shader",
+  "name": "Wisdom Shaders V3 (Horizon port)",
+  "version": "1.3.7",
+  "game": "26.3",
+  "file": "wisdom_horizon-1.3.7.hshader",
+  "sha256": "3c1dc775e3eac9e67ced2e346bf7edd5cb83161b35eca7231ca9aff7725a40b4"
+ },
+ {
+  "id": "wisdom_horizon_lite",
+  "kind": "shader",
+  "name": "Wisdom Shaders V3 Lite (Horizon port)",
+  "version": "1.3.7",
+  "game": "26.3",
+  "file": "wisdom_horizon_lite-1.3.7.hshader",
+  "sha256": "ba41f0094a886b2e86a462994206fa184ebabf424dc0736829ddc7024ea9e880"
+ },
+ {
+  "id": "worldedit",
+  "kind": "native-mod",
+  "name": "WorldEdit",
+  "version": "1.2.1",
+  "game": "26.3",
+  "file": "worldedit-1.2.1.hnmod",
+  "sha256": "b2bb3019ecd4d5392644c54c70a87d6c3277538a6e18d0c311f3a051f7d2f015"
+ },
+ {
+  "id": "worldmap",
+  "kind": "native-mod",
+  "name": "World Map",
+  "version": "0.7.1",
+  "game": "26.3",
+  "file": "worldmap-0.7.1.hnmod",
+  "sha256": "ae6fa84ce4d7b00df776d0f619a927b9903c28b18f3233d6560bb3d7244190f1"
+ },
+ {
+  "id": "xtoxray",
+  "kind": "native-mod",
+  "name": "X To Xray",
+  "version": "2026.29.0",
+  "game": "26.3",
+  "file": "xtoxray-2026.29.0.hnmod",
+  "sha256": "3446a4a70a2b87ef6e9de00ce8a255aa83c2e44ccd5acc9f14887662ed55f27c"
+ },
+ {
+  "id": "zoom",
+  "kind": "native-mod",
+  "name": "Zoom",
+  "version": "2.0.0",
+  "game": "26.3",
+  "file": "zoom-2.0.0.hnmod",
+  "sha256": "49fa2d7d635225c53304fbf1477606c0677eb23d94dac75b730f6c3ba065f127"
+ },
+ {
+  "id": "zoomify",
+  "kind": "native-mod",
+  "name": "Zoomify",
+  "version": "1.1.1",
+  "game": "26.3",
+  "file": "zoomify-1.1.1.hnmod",
+  "sha256": "d21267c718dca9bc649f7ae47406f9b70b13ad1aaf211654844b56d8da10a7e6"
+ }
+]
