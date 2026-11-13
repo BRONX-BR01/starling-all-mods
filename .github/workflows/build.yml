@@ -11,6 +11,9 @@ on:
       batch_size:
         description: mods por lote (1 = isola cada mod)
         default: '10'
+      full_apk:
+        description: Gerar o APK com os mods dentro (mais lento)
+        default: 'false'
 permissions:
   contents: read
 jobs:
@@ -76,25 +79,8 @@ jobs:
         env:
           IDS: ${{ matrix.batch.ids }}
           NAME: ${{ matrix.batch.name }}
-        run: |
-          mkdir -p out
-          status=ok
-          if python3 tools/scripts/prepare.py $IDS > bundles.txt 2> prep.log; then
-            mapfile -t bundles < bundles.txt
-            NATIVE_LIBRARY_ONLY=1 bash source/packaging/android/native_build.sh source out "${bundles[@]}" > build.log 2>&1 || status=failed
-          else
-            status=prepare_failed; cp prep.log build.log
-          fi
-          if [ "$status" = ok ]; then
-            mv out/libhorizon_android.so "out/$NAME.so"; mv out/build.json "out/$NAME.json"
-          fi
-          python3 - "$NAME" "$status" "$IDS" <<'PY'
-          import json, sys
-          name, status, ids = sys.argv[1:]
-          tail = open("build.log", errors="replace").read().splitlines()[-40:]
-          json.dump({"batch": name, "status": status, "ids": ids.split(), "tail": tail},
-                    open("result.json", "w"), indent=1)
-          PY
+          FULL_APK: ${{ inputs.full_apk }}
+        run: python3 tools/scripts/build_batch.py "$NAME" $IDS
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -131,7 +117,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           shopt -s nullglob
-          files=(res/*/out/*.so res/*/out/*.json)
+          files=(res/*/out/*.so res/*/out/*.json res/*/out/*.apk)
           [ ${#files[@]} -gt 0 ] || exit 0
           tag="builds-${{ github.run_id }}"
           gh release create "$tag" -R "$GITHUB_REPOSITORY" --prerelease \
