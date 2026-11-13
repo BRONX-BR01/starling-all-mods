@@ -90,6 +90,7 @@ jobs:
             build.log
             out/*.so
             out/*.json
+            out/*.apk
           retention-days: 14
 
   report:
