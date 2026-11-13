@@ -1,4 +1,4 @@
-import json, sys, zipfile, hashlib, subprocess, pathlib
+import runpy, json, sys, zipfile, hashlib, subprocess, pathlib
 REPO = "horizon-rust/horizon-mods"
 root = pathlib.Path(__file__).resolve().parents[1]
 mods = {m["id"]: m for m in json.loads((root / "manifest.json").read_text())}
@@ -18,6 +18,14 @@ for mid in sys.argv[1:]:
         if p.is_absolute() or ".." in p.parts: die(f"{mid}: caminho suspeito {n}")
     dest = pathlib.Path("native-mods") / mid
     z.extractall(dest)
+    patch = root / "patches" / f"{mid}.py"
+    if patch.exists():
+        for rel, old, new in runpy.run_path(str(patch))["EDITS"]:
+            f = dest / rel
+            t = f.read_text()
+            if t.count(old) != 1:
+                die(f"{mid}: patch nao casa em {rel}: {old[:60]!r}")
+            f.write_text(t.replace(old, new))
     found = sorted((dest / "mixins").glob("*/horizon-mixin.toml"))
     if not found: die(f"{mid}: sem horizon-mixin.toml")
     for p in found: print(p.parent.resolve())
